@@ -1,4 +1,4 @@
-Images Slider Responsive
+Images Slider
 =======
 
 This repository contains the slides used for the independent exercises conducted by Manuel Setyo.
