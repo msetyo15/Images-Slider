@@ -63,15 +63,6 @@ body::before {
 
 .credit-img {
   position: fixed;
-  display: flex;
-  width: 70vw;
-  left: 15vw;
-  bottom: 85vh;
-}
-
-.credit-img::after {
-  content: '';
-  z-index: 1;
 }
 
 .text-title {
@@ -136,7 +127,8 @@ body::before {
   position: fixed;
 }
 
-a.btn {
+a.btn,
+p.btn {
   text-decoration: none;
   color: #fff;
   background-color: #000;
